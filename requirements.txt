@@ -1,0 +1,7 @@
+openai
+python-dotenv
+tk
+requests
+functions_framework
+google-cloud-storage
+google-auth
